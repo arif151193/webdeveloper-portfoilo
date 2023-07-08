@@ -1,0 +1,66 @@
+/*Nac related Styles*/
+nav{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+}
+body{
+    font-family: 'Open Sans', sans-serif; 
+}
+.nav-title{
+    color: black;
+    font-size: 45;
+}
+.text-primary{
+   color: #FD6E0A ; 
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+    }
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+}
+.btn-primary{
+    color: aliceblue;
+    background-color: #FD6E0A;
+    border: white;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
